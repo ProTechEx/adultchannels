@@ -1,0 +1,89 @@
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/o-la-la.png",O-LA-LA
+http://SERVERIP/master.php?id=olala&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/hustler_hd.png",HUSTLER HD
+http://SERVERIP/master.php?id=hustlerhd&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/sextosenso.png",SEXTOSENSO
+http://SERVERIP/master.php?id=sextosenso&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/hustler-tv.png",HUSTLER TV
+http://SERVERIP/master.php?id=hustler&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/pinkotv.png",PINK O TV
+http://SERVERIP/master.php?id=pink&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/private_tv.png",PRIVATE TV
+http://SERVERIP/master.php?id=private-tv&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/passionxxx.png",PASSIONXXX
+http://SERVERIP/master.php?id=passion&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/sct_tv.png",SCT
+http://SERVERIP/master.php?id=sct&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/centoxcento.png",CENTO X CENTO TV
+http://SERVERIP/master.php?id=centoxcento&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/redlight-hd.png",REDLIGHT HD
+http://SERVERIP/master.php?id=redlight&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/nuart-tv.png",NUART TV
+http://SERVERIP/master.php?id=nuart&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/blue-hustler.png",BLUE HUSTLER
+http://SERVERIP/master.php?id=hustler&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/playboy_tv.png",PLAYBOY TV
+http://SERVERIP/master.php?id=playboy&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/candy-tv.png",CANDY
+http://SERVERIP/master.php?id=candy-tv&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/babes-tv.png",BABES TV
+http://SERVERIP/master.php?id=babes-tv&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/vivid-red.png",VIVID RED
+http://SERVERIP/master.php?id=vivid-red&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/fap-tv-2.png",FAP TV 2
+http://SERVERIP/master.php?id=fap-tv-2&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/fap-tv-3.png",FAP TV 3
+http://SERVERIP/master.php?id=fap-tv-3&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/fap-tv-4.png",FAP TV 4
+http://SERVERIP/master.php?id=fap-tv-4&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/russkaya-noch.png",Русская ночь
+http://SERVERIP/master.php?id=rusnoch&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/oh-ah.png",ОХ-АХ HD
+http://SERVERIP/master.php?id=oh-ah&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/egoist-tv.png",Эгоист ТВ
+http://SERVERIP/master.php?id=egoist&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/erox-hd.png",EROX HD
+http://SERVERIP/master.php?id=erox-hd&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/shaluntv.png",Шалун ТВ
+http://SERVERIP/master.php?id=shalun-tv&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/penthouse-2.png",PENTHOUSE HD 2
+http://SERVERIP/master.php?id=penthouse-2&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/fap-tv-anal.png",FAP TV ANAL
+http://SERVERIP/master.php?id=fap-tv-anal&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/fap-tv-parody.png",FAP TV PARODY
+http://SERVERIP/master.php?id=fap-tv-parody&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/fap-tv-teens.png",FAP TV TEENS
+http://SERVERIP/master.php?id=fap-tv-teens&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/fap-tv-lesbian.png",FAP TV LESBIAN
+http://SERVERIP/master.php?id=fap-tv-lesbian&type=playlist.m3u8
+
+#EXTINF:-1 group-title="XXX" tvg-logo="http://hochu.tv/images/fap-tv-compilation.png",FAP TV COMPILATION
+http://SERVERIP/master.php?id=fap-tv-compilation&type=playlist.m3u8
